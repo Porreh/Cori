@@ -12,9 +12,9 @@
     <script>var base = '<?php echo theme_url(); ?>';</script>
     <script src="<?php echo theme_url('/js/main.js'); ?>"></script>
     
+    <!-- Google Fonts -->
     <link href='Google Fonts API' rel='stylesheet' type='text/css'>
     
-    <meta name="viewport" content="width=600">
     <meta name="generator" content="Anchor CMS">
     
     <meta property="og:title" content="<?php echo site_name(); ?>">
